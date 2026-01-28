@@ -1,0 +1,15 @@
+E.coli K12 MG1655 基因组和对应的注释下载地址
+
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/
+用的是GCF_000005845.2_ASM584v2_genomic.fna.gz，和GCF_000005845.2_ASM584v2_genomic.gtf.gz
+地址：https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gtf.gz
+
+E.coli k12 说明：https://www.sciencedirect.com/topics/medicine-and-dentistry/escherichia-coli-k-12
+
+
+
+人类基因组和转录组和对应注释下载地址：
+基因组：https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_49/GRCh38.p14.genome.fa.gz
+转录组：https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_49/gencode.v49.transcripts.fa.gz
+注释：https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_49/gencode.v49.basic.annotation.gtf.gz

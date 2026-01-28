@@ -1,0 +1,21 @@
+# Python依赖包
+
+# 核心依赖
+pysam>=0.21.0
+biopython>=1.79
+pandas>=1.5.0
+
+# 统计分析
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# 可视化（可选）
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Venn图（用于可视化，可选）
+# venn>=0.1.3
+
+# 类型提示支持（Python < 3.10）
+typing-extensions>=4.4.0
+
